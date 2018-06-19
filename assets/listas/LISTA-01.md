@@ -10,6 +10,7 @@
 * As respostas devem ser submetidas unicamente por intermédio deste [formulario](https://goo.gl/forms/9snCZKLJkDj9oM2g1), em que devem ser preenchidos os dados do aluno (nome, e-mail e matrícula).
 * A lista deverá estar compactada (zip), contendo as pastas enumeradas correspondentes às respostas de cada exercício
 * Em caso de plágio, as notas serão automaticamente zeradas. Lembrem-se: exercício é mais que uma nota, é uma forma de praticar e um caminho para aprender.
+* Prazo de entrega: **11/07/2018**
 
 ## Exercícios:
 1. Crie uma classe para representar um jogador de futebol, com os atributos nome, posição, data de nascimento, nacionalidade, altura e peso. Crie os métodos públicos necessários para sets e gets e também um método para imprimir todos os dados do jogador. Crie um método para calcular a idade do jogador e outro método para mostrar quanto tempo falta para o jogador se aposentar. Para isso, considere que os jogadores da posição de defesa se aposentam em média aos 40 anos, os jogadores de meio-campo aos 38 e os atacantes aos 35.
