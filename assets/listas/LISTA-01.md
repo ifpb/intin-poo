@@ -25,4 +25,4 @@
   * **Sair:** para remover uma pessoa do elevador (só deve remover se houver alguém dentro dele);
   * **Subir:** para subir um andar (não deve subir se já estiver no último andar);
   * **Descer:** para descer um andar (não deve descer se já estiver no térreo);
-  Obs.: Encapsular todos os atributos da classe (criar os métodos set e get).
+  - Obs.: Encapsular todos os atributos da classe (criar os métodos set e get).
