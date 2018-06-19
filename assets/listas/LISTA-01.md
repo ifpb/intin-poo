@@ -8,7 +8,7 @@
 
 ## Importante:
 * As respostas devem ser submetidas unicamente por intermédio deste [formulario](https://goo.gl/forms/9snCZKLJkDj9oM2g1), em que devem ser preenchidos os dados do aluno (nome, e-mail e matrícula).
-* A lista deverá estar compactada (zip), contendo as pastas enumeradas correspondentes às respostas de cada exercício
+* As respostas da lista devem estar compactada (zip), contendo as pastas enumeradas correspondentes à cada exercício
 * Em caso de plágio, as notas serão automaticamente zeradas. Lembrem-se: exercício é mais que uma nota, é uma forma de praticar e um caminho para aprender.
 * Prazo de entrega: **11/07/2018**
 
