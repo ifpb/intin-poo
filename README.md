@@ -29,7 +29,7 @@ A disciplina de Programação Orientada a Objetos do Curso Técnico em Informát
   * Introdução ao teste de software.
   * Teste de software aplicado ao paradigma de orientação a objetos
 
-Importante: acompanhe o cronograma detalhado da disciplina no [roteiro de aulas](docs/ROTEIRO.md) 
+Importante: acompanhe o cronograma detalhado da disciplina no [roteiro de aulas](docs/ROTEIRO.md)
 
 ## Avaliações
 
@@ -37,7 +37,7 @@ A nota final será computada através da média aritméticas das seguintes ativi
 
 ### 1º Bimestre:
 * Avaliação I (Unidade 1): a ser aplicada em 20/07/2018
-* Atividades em Sala de Aula + [Lista de Exercícios](exams/lista-1.md)
+* Atividades em Sala de Aula + [Lista de Exercícios](https://ifpb.github.io/intin-poo/assets/listas/LISTA-01.html)
 
 ### 2º Bimestre:
 * Avaliação II (Unidade 2)
