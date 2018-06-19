@@ -1,0 +1,10 @@
+from BombaCombustivel import BombaCombustivel
+from pprint import pprint
+
+bomba1 = BombaCombustivel(20, "gasolina", 4.00)
+
+bomba1.alterar_valor(20.00)
+
+bomba1.abastecer_por_litro(21)
+
+print(bomba1)
