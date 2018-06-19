@@ -19,9 +19,9 @@
 3. Crie uma classe chamada Ingresso, que possui um valor em reais e um método imprimirValor(). Crie uma classe IngressoVIP, que herda de Ingresso e possui um valor adicional. Crie um método que retorne o valor do ingresso VIP (com o adicional incluído). Crie um programa para criar as instâncias de Ingresso e IngressoVIP, mostrando a diferença de preços.
 
 4. Crie uma classe Elevador para armazenar as informações de um elevador de prédio. A classe deve armazenar o andar atual (térreo = 0), total de andares no prédio (desconsiderando o térreo), capacidade do elevador e quantas pessoas estão presentes nele. A classe deve também disponibilizar os seguintes métodos:
-  * **Inicializa:** que deve receber como parâmetros a capacidade do elevador e o total de andares no prédio (os elevadores sempre começam no térreo e vazio);
-  * **Entra:** para acrescentar uma pessoa no elevador (só deve acrescentar se ainda houver espaço);
-  * **Sai: **para remover uma pessoa do elevador (só deve remover se houver alguém dentro dele);
-  * **Sobe:** para subir um andar (não deve subir se já estiver no último andar);
-  * **Desce:** para descer um andar (não deve descer se já estiver no térreo);
-  - Obs.: Encapsular todos os atributos da classe (criar os métodos set e get).
+  * **Inicializar:** que deve receber como parâmetros a capacidade do elevador e o total de andares no prédio (os elevadores sempre começam no térreo e vazio);
+  * **Entrar:** para acrescentar uma pessoa no elevador (só deve acrescentar se ainda houver espaço);
+  * **Sair:** para remover uma pessoa do elevador (só deve remover se houver alguém dentro dele);
+  * **Subir:** para subir um andar (não deve subir se já estiver no último andar);
+  * **Descer:** para descer um andar (não deve descer se já estiver no térreo);
+  Obs.: Encapsular todos os atributos da classe (criar os métodos set e get).
