@@ -12,28 +12,28 @@
   - Abstração
   - Definição de atributos, classes e instâncias
   - Construtores
-  - [Slides](assets/slides/poo-aula01.pdf)
-  - [Exemplos](assets/exemplos/01-introducao)
+  - [Slides](../assets/slides/poo-aula01.pdf)
+  - [Exemplos](../assets/exemplos/01-introducao)
 
 ## \# 02 - Conceitos de Orientação a Objetos - Encapsulamento (16/05/2018)
 **Conteúdo:**
 - Acessadores (métodos privados, públicos e protegidos)
 - Getters e setters
-- [Slides](assets/poo-aula02.pdf)
-- [Exemplos](assets/exemplos/02-encapsulamento)
+- [Slides](../assets/poo-aula02.pdf)
+- [Exemplos](../assets/exemplos/02-encapsulamento)
 
 ## \# 03 - Sobrecarga de operadores e herança (23/05/2018)](#-03---sobrecarga-de-operadores-e-herança-23052018)<br>
 **Conteúdo:**
 - Definição de herança, super classes e subclasses
 - Sobrecarga de Operadores com __str__ e __repr__
-- [Exemplos](assets/exemplos/03-heranca)
+- [Exemplos](../assets/exemplos/03-heranca)
 
 ## \# 04 - Exercícios de herança e polimorfismo (06/06/2018)
 **Conteúdo:**
 - Exercícios de herança (Pessoa Física e Pessoa Jurídica)
 - Criação de um jogo de RPG para demonstrar o conceito de polimorfismo
-- [Slides](assets/slides/poo-aula03.pdf)
-- [Exemplos](assets/exemplos/04-polimorfismo)
+- [Slides](../assets/slides/poo-aula03.pdf)
+- [Exemplos](../assets/exemplos/04-polimorfismo)
 
 ## \# 05 - Revisão: aplicação de lista de exercícios (20/06/2018)
-- [Lista de Exercícios](assets/listas/lista-exercicios/LISTA-01.md)
+- [Lista de Exercícios](../assets/listas/LISTA-01.md)
