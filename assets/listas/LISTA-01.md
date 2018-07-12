@@ -1,5 +1,8 @@
 # POO - Lista de exercicios \# 1
 
+## Respostas da lista
+* [Clique aqui para visualizar as respostas](https://github.com/ifpb/intin-poo/tree/master/assets/listas/LISTA-01-respostas)
+
 ## Instruções
 * Separe cada exercício em uma pasta separada.
 * Cada classe deverá estar um arquivo com o mesmo nome (exemplo: classe Pessoa no arquivo pessoa.py)
