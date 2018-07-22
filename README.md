@@ -36,8 +36,9 @@ Importante: acompanhe o cronograma detalhado da disciplina no [roteiro de aulas]
 A nota final será computada através da média aritméticas das seguintes atividades:
 
 ### 1º Bimestre:
-* Avaliação I (Unidade 1): a ser aplicada em 20/07/2018
+* Avaliação I (Unidade 1)
 * Atividades em Sala de Aula + [Lista de Exercícios](https://ifpb.github.io/intin-poo/assets/listas/LISTA-01.html)
+* [Notas do 1º Bimestre](docs/intin-poo-notas.pdf)
 
 ### 2º Bimestre:
 * Avaliação II (Unidade 2)
