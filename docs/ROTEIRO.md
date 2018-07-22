@@ -36,5 +36,7 @@
 - [Slides](../assets/slides/poo-aula03.pdf)
 - [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/04-polimorfismo)
 
-## \# 05 - Revisão: aplicação de lista de exercícios (20/06/2018)
-- [Lista de Exercícios](../assets/listas/LISTA-01.md)
+## \# 05 - Aplicação de lista de exercícios (20/06/2018)
+- [Lista de Exercícios 1](../assets/listas/LISTA-01.md)
+
+## \# 06 - Resolução da prova e de dúvidas da lista de exercícios (25/07/2018)([Lista de Exercícios 2](../assets/listas/LISTA-02.html))
