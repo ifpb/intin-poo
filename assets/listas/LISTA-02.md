@@ -1,5 +1,8 @@
 # POO - Lista de exercicios \# 2
 
+## Respostas da lista
+* [Clique aqui para visualizar as respostas](https://github.com/ifpb/intin-poo/tree/master/assets/listas/LISTA-02-respostas)
+
 **1. Crie uma classe chamada Fatura que possa ser utilizado por uma loja de suprimentos de informática para representar uma fatura de um item vendido na loja. Uma fatura deve incluir as seguintes informações como atributos:**
   * o número do item faturado,
   * a descrição do item,

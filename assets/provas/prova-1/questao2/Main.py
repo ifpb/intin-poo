@@ -6,7 +6,7 @@ passagem_jp_cjz = 120
 
 cliente_comum = Cliente("José", 22)
 valor = cliente_comum.calcular_valor_final_passagem(passagem_jp_cjz)
-print("Cliente %s deverá pagar %d" % (cliente_comum.nome, valor))
+print("Cliente {} deverá pagar {}" % (cliente_comum.nome, valor))
 
 cliente_estudante = ClienteEstudante("Ana", 17)
 valor = cliente_estudante.calcular_valor_final_passagem(passagem_jp_cjz)
