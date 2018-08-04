@@ -39,6 +39,7 @@ A nota final será computada através da média aritméticas das seguintes ativi
 * [Avaliação I (Unidade 1)](assets/provas/prova-1/poo-avaliacao-1.pdf) -   [(respostas)](https://github.com/ifpb/intin-poo/tree/master/assets/provas/prova-1/)
 * Atividades em Sala de Aula + [Lista de Exercícios](https://ifpb.github.io/intin-poo/assets/listas/LISTA-01.html)
 * [Notas finais do 1º Bimestre](docs/intin-poo-notas.pdf)
+* [Avaliação Bimestral](assets/provas/bimestral-1/poo-avaliacao-bimestral-1.pdf) -   [(respostas)](https://github.com/ifpb/intin-poo/tree/master/assets/provas/bimestral-1/respostas)
 
 ### 2º Bimestre:
 * Avaliação II (Unidade 2)
