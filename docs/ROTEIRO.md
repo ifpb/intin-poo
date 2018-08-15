@@ -54,3 +54,4 @@
 - Conceitos de agregação e composição
 - [Slides](../assets/slides/poo-aula04.pdf)
 - [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/05-associacao)
+- [Exercício](../assets/exercicios/Ex-01.html)
