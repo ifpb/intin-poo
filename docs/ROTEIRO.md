@@ -9,7 +9,7 @@
 [\# 07 - Composição e agregação de objetos (15/08/2018)](#-07---Composição-e-agregação-de-objetos-15082018)
 
 
-#1º Bimestre
+# 1º Bimestre
 
 ## \# 01 - Introdução ao paradigma de Programação Orientada a Objetos (11/05/2018)
 ---
