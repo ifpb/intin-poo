@@ -51,7 +51,7 @@
 #2º Bimestre
 
 ## \# 07 - Composição e agregação de objetos (15/08/2018)
-** Conteúdo **
+**Conteúdo:**
 - Exemplos de associação entre classes
 - Conceitos de agregação e composição
 - [Slides](../assets/slides/poo-aula04.pdf)
