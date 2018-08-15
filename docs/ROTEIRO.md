@@ -1,8 +1,13 @@
+**1º Bimestre:**
 [\# 01 - Introdução ao paradigma de Programação Orientada a Objetos (11/05/2018)](#-01---introdução-ao-paradigma-de-programação-orientada-a-objetos-11052018)<br>
 [\# 02 - Conceitos de Orientação a Objetos - Encapsulamento (16/05/2018)](#-02---conceitos-de-orientação-a-objetos---encapsulamento-16052018)<br>
 [\# 03 - Sobrecarga de operadores e herança (23/05/2018)](#-03---sobrecarga-de-operadores-e-herança-23052018)<br>
 [\# 04 - Exercícios de herança e polimorfismo (06/06/2018)](#-04---exercícios-de-herança-e-polimorfismo-06062018)<br>
 [\# 05 - Revisão: aplicação de lista de exercícios (20/06/2018)](#-05---revisão-aplicação-de-lista-de-exercícios-20062018)<br>
+
+**2º Bimestre:**
+
+#1º Bimestre
 
 ## \# 01 - Introdução ao paradigma de Programação Orientada a Objetos (11/05/2018)
 ---
@@ -40,3 +45,12 @@
 - [Lista de Exercícios 1](../assets/listas/LISTA-01.md)
 
 ## \# 06 - Resolução da prova e de dúvidas da lista de exercícios (25/07/2018)([Lista de Exercícios 2](../assets/listas/LISTA-02.html))
+
+#2º Bimestre
+
+## \# 07 - Composição e agregação de objetos
+** Conteúdo **
+- Exemplos de associação entre classes
+- Conceitos de agregação e composição
+- [Slides](../assets/slides/poo-aula04.pdf)
+- [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/05-associacao)
