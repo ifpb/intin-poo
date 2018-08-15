@@ -6,6 +6,8 @@
 [\# 05 - Revisão: aplicação de lista de exercícios (20/06/2018)](#-05---revisão-aplicação-de-lista-de-exercícios-20062018)<br>
 
 **2º Bimestre:**
+[\# 07 - Composição e agregação de objetos (15/08/2018)](#-07---Composição-e-agregação-de-objetos-15082018)
+
 
 #1º Bimestre
 
@@ -48,7 +50,7 @@
 
 #2º Bimestre
 
-## \# 07 - Composição e agregação de objetos
+## \# 07 - Composição e agregação de objetos (15/08/2018)
 ** Conteúdo **
 - Exemplos de associação entre classes
 - Conceitos de agregação e composição
