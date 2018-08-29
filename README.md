@@ -42,8 +42,8 @@ A nota final será computada através da média aritméticas das seguintes ativi
 * [Avaliação Bimestral](assets/provas/bimestral-1/poo-avaliacao-bimestral-1.pdf) -   [(respostas)](https://github.com/ifpb/intin-poo/tree/master/assets/provas/bimestral-1/respostas)
 
 ### 2º Bimestre:
+* [Projeto I](assets/projetos/projeto1.md)
 * Avaliação II (Unidade 2)
-* Projeto I
 
 ### 3º Bimestre:
 * Avaliação III
