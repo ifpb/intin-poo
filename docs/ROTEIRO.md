@@ -49,7 +49,7 @@
 
 ## \# 06 - Resolução da prova e de dúvidas da lista de exercícios (25/07/2018)([Lista de Exercícios 2](../assets/listas/LISTA-02.html))
 
-#2º Bimestre
+# 2º Bimestre
 
 ## \# 07 - Composição e agregação de objetos (15/08/2018)
 **Conteúdo:**
