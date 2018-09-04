@@ -8,7 +8,7 @@
 **2º Bimestre:**
 
 [\# 07 - Composição e agregação de objetos (15/08/2018)](#-07---Composição-e-agregação-de-objetos-15082018)<br>
-[\# 08 - Persistência de Objetos (05/09/2018)](#-08---Persistência-de-Objetos-05092018)
+[\# 08 - Persistência de Objetos (05/09/2018)](#-08---persistência-de-objetos-05092018)
 
 # 1º Bimestre
 
