@@ -65,5 +65,5 @@
 - Persistência e leitura de objetos em arquivos
 - Acesso a banco de dados
 - Persistência e leitura de objetos em banco de dados
-- [Slides](https://slides.com/diegoep/poopersistencia/)
+- [Slides](https://slides.com/diegoep/poo-persistencia/)
 - [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/06-arquivos)
