@@ -7,8 +7,8 @@
 
 **2º Bimestre:**
 
-[\# 07 - Composição e agregação de objetos (15/08/2018)](#-07---Composição-e-agregação-de-objetos-15082018)
-
+[\# 07 - Composição e agregação de objetos (15/08/2018)](#-07---Composição-e-agregação-de-objetos-15082018)<br>
+[\# 08 - Persistência de Objetos (05/09/2018)](#-08---Persistência-de-Objetos-05092018)
 
 # 1º Bimestre
 
@@ -58,3 +58,12 @@
 - [Slides](../assets/slides/poo-aula04.pdf)
 - [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/05-associacao)
 - [Exercício](../assets/exercicios/Ex-01.html)
+
+## \# 08 - Persistência de Objetos (05/09/2018)
+**Conteúdo:**
+- Manipulação de arquivos
+- Persistência e leitura de objetos em arquivos
+- Acesso a banco de dados
+- Persistência e leitura de objetos em banco de dados
+- [Slides](https://slides.com/diegoep/poopersistencia/)
+- [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/06-arquivos)
