@@ -15,12 +15,10 @@ def persistir():
 def ler():
     conn = sqlite3.connect('banco.db')
     c = conn.cursor()
-    c = conn.cursor()
-    id = '1'
+    id = '2'
     c.execute('SELECT * FROM pessoa WHERE id=?', id)
     print(c.fetchone())
 
-persistir()
 ler()
 
 
