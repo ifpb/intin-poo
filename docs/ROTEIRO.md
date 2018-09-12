@@ -8,7 +8,8 @@
 **2º Bimestre:**
 
 [\# 07 - Composição e agregação de objetos (15/08/2018)](#-07---Composição-e-agregação-de-objetos-15082018)<br>
-[\# 08 - Persistência de Objetos (05/09/2018)](#-08---persistência-de-objetos-05092018)
+[\# 08 - Persistência de Objetos (05/09/2018)](#-08---persistência-de-objetos-05092018)<br>
+[\# 09 - Persistência de Objetos usando Shelves (12/09/2018)](#-09---persistência-de-objetos-usando-shelves)
 
 # 1º Bimestre
 
@@ -67,3 +68,10 @@
 - Persistência e leitura de objetos em banco de dados
 - [Slides](https://slides.com/diegoep/poo-persistencia/)
 - [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/06-arquivos)
+
+
+## \# 09 - Persistência de Objetos usando Shelves (12/09/2018)
+**Conteúdo:**
+- Persistência de arquivos usando Shelves
+- Operações básicas (leitura, escrita, atualização, remoção)
+- [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/07-persistencia)
