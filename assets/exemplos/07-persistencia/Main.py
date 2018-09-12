@@ -10,8 +10,8 @@ class Main:
 
     def criarUsuarios(self):
         endereco = Endereco("Rua Y", "Cajazeiras", "PB")
-        pessoa = Pessoa("Gastão", 40, endereco)
-        usuario = Usuario("gastao", "321", pessoa)
+        pessoa = Pessoa("Diego", 40, endereco)
+        usuario = Usuario("diego", "321", pessoa)
         self.db[usuario.login] = usuario
 
     def validarLogin(self, login, senha):
