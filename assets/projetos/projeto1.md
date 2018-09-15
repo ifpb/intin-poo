@@ -20,7 +20,7 @@
 **05/09/18** - Apresentação das propostas de projeto
 
 **18/09/18** - Entrega do projeto (código-fonte)
-- [Formulário de entrega do projeto](https://goo.gl/forms/aip71Wp5JjeCoLwJ2)
+- [Formulário de entrega do projeto](https://goo.gl/forms/7Q517hyxsh1LQg1Q2)
 
 **19/09/18** - Apresentação do projeto em sala de aula
 
