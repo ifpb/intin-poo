@@ -16,12 +16,11 @@
 
 ## Cronograma do projeto
 **04/09/18** - Definição das equipes e submissão das propostas de projeto.
-- [Modelo de documento para a proposta de projeto](https://drive.google.com/open?id=19WvpC2XjQE2s-LdImpVyv2cA4fh1wjI6wImwkZuwFw0)
-- [Formulário de Submissão](https://goo.gl/forms/hnEGY5eAT7ttmiBa2)
 
 **05/09/18** - Apresentação das propostas de projeto
 
 **18/09/18** - Entrega do projeto (código-fonte)
+- [Formulário de entrega do projeto](https://goo.gl/forms/aip71Wp5JjeCoLwJ2)
 
 **19/09/18** - Apresentação do projeto em sala de aula
 
