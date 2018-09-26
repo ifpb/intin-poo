@@ -10,6 +10,8 @@
 [\# 07 - Composição e agregação de objetos (15/08/2018)](#-07---Composição-e-agregação-de-objetos-15082018)<br>
 [\# 08 - Persistência de Objetos (05/09/2018)](#-08---persistência-de-objetos-05092018)<br>
 [\# 09 - Persistência de Objetos usando Shelves (12/09/2018)](#-09---persistência-de-objetos-usando-shelves)
+[\# 10 - Exceções (26/09/2018)](#-10---Exceções-26092018)
+
 
 # 1º Bimestre
 
