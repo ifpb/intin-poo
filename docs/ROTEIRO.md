@@ -75,3 +75,10 @@
 - Persistência de arquivos usando Shelves
 - Operações básicas (leitura, escrita, atualização, remoção)
 - [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/07-persistencia)
+
+## \# 10 - Exceções (26/09/2018)
+**Conteúdo:**
+- [Slides](https://slides.com/diegoep/poo-excecoes/)
+- Tratamento de exceções existentes no Python
+- Criação de exceções personalizadas
+- [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/08-excecoes)

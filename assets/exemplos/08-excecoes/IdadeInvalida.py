@@ -1,0 +1,2 @@
+class IdadeInvalida(Exception):
+    pass
