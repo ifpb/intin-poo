@@ -83,3 +83,7 @@
 - Tratamento de exceções existentes no Python
 - Criação de exceções personalizadas
 - [Exemplos](https://github.com/ifpb/intin-poo/tree/master/assets/exemplos/08-excecoes)
+
+## \#11 - Apresentação final de Projetos e Revisão (03/10/2018)
+**Conteúdo:**
+- [Exercício](../assets/exercicios/Ex-02.html)
