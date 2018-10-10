@@ -14,3 +14,7 @@ Algumas observações sobre os métodos da classe **UrnaEletronica**:
 
 ## Entrega:
 Para entregar as respostas da prova, compacte os arquivos em um ZIP e submeta para o [formulário](https://goo.gl/forms/MiB60o3RzFtKoPk32).
+
+
+## Respostas:
+[Clique aqui](respostas) para visualizar as respostas

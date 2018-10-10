@@ -1,0 +1,2 @@
+class CandidatoNaoExiste(Exception):
+    pass
