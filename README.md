@@ -44,6 +44,7 @@ A nota final será computada através da média aritméticas das seguintes ativi
 ### 2º Bimestre:
 * [Projeto I](assets/projetos/projeto1.md)
 * Avaliação II (Unidade 2)
+* [Prova](assets/provas/prova-2)
 
 ### 3º Bimestre:
 * Avaliação III
