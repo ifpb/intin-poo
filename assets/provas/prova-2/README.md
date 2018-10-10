@@ -12,9 +12,5 @@ Algumas observações sobre os métodos da classe **UrnaEletronica**:
 * O método **listarTodosOsVotos** deverá imprimir os seguintes dados de cada voto: data, candidato, número, nome do partido. As informações do eleitor não deverão ser exibidas.
 * O método **listarVoto(candidato)** deverá imprimir os votos que um determinado candidato obteve. Deverá ser exibido primeiramente o número total de votos que o candidato obteve e em seguida a hora em que cada voto foi computado. As informações do eleitor não deverão ser exibidas.
 
-## Entrega:
-Para entregar as respostas da prova, compacte os arquivos em um ZIP e submeta para o [formulário](https://goo.gl/forms/MiB60o3RzFtKoPk32).
-
-
 ## Respostas:
-[Clique aqui](respostas) para visualizar as respostas
+[Clique aqui](https://github.com/ifpb/intin-poo/tree/master/assets/provas/prova-2/respostas) para visualizar as respostas
